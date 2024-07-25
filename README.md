@@ -10,7 +10,7 @@ Features
 
 •	Display a list of all rooms.
 
-3.	Guest Management:
+2.	Guest Management:
 
 •	Should be able to Add new guests with personal details.
 
@@ -20,7 +20,7 @@ Features
 
 •	Display a list of all guests.
 
-4.	Reservation Management:
+3.	Reservation Management:
 
 •	Build a new making tenants together with planned arrival and additionally journeying occasions, person highlights combined with room or space options.
 
